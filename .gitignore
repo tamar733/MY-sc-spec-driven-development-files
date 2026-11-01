@@ -11,6 +11,14 @@
 *.sln.docstates
 *.env
 
+# Project working files
+node_modules/
+dist/
+course-repo/
+
+# Local runtime artifacts
+*.log
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
